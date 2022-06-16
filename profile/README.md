@@ -1,6 +1,6 @@
 # CodeMonument 
 
-![](./assets/banner-centered.jpg)
+![](./assets/banner.jpg)
 
 A github org for publishing useful and maintained (*) stuff by [@bjesuiter](https://github.com/bjesuiter). 
 
