@@ -10,3 +10,7 @@ If you want to see my other repos repos, please go to
 
 - [github.com/bjesuiter (personal account)](https://github.com/bjesuiter)
 
+If you want to contact me, find me on Mastodon at 
+
+- <a rel="me" href="https://techhub.social/@codemonument">techhub.social/@codemonument</a>
+
