@@ -12,6 +12,6 @@ If you want to see my other repos repos, please go to
 
 <link rel="me" href="https://techhub.social/@codemonument">
 
-If you want to contact me, find me on Mastodon at 
-- [https://techhub.social/@codemonument](techhub.social/@codemonument)
-
+If you want to contact me, find me on  
+- Twitter [https://twitter.com/codemonument](https://twitter.com/codemonument)
+- Mastodon [https://techhub.social/@codemonument](techhub.social/@codemonument)
